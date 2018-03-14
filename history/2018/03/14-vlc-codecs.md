@@ -1,14 +1,26 @@
+Нет возможности просмотра видео через VLC-плеер
+================================================
+
+1. OS - Linux Mint 18.3 Cinnamon
+2. RAM 4 Gb
+3. До этого видео из этой папки смотрел, было всё хорошо
 
 
+
+Полез искать ответы на форумах
 
 `cd /usr/lib/vlc/plugins/codec`
 
 https://gist.github.com/2bbac8ce506b31e5a37fff41118a947b
 
+## Run VLC in Linux Mint 18.3 at GUI (Nemo 3.6.5)
 
 Через GUI VLC 2.2.2 вываливает ошибки
 > Codec not supported:
 > VLC could not decode the format "h264" (H264 - MPEG-4 AVC (part 10))
+
+
+## Run VLC in terminal
 
 Запуская в терминале
 `vlc video.mp4`
@@ -28,3 +40,4 @@ libdvdnav: vm: failed to read VIDEO_TS.IFO
 [00000000024234c8] core playlist: stopping playback
 [00007fa5f8056368] vdpau_avcodec generic error: decoder profile not supported: 6
 ```
+
