@@ -5,7 +5,8 @@ _2018-07-24_
 ##  Basic UNIX commands 
 
 - http://mally.stanford.edu/~sr/computing/basic-unix.html
-
+- http://copist.ru/books/97things-dev/88  
+RU 97 вещей, которые должен знать каждый программист
 ## Directories, files
 | Command | Result
 |       --|                 --|
