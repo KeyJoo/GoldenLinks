@@ -9,18 +9,18 @@ _2018-07-24_
 ## Directories, files
 | Command | Result
 |       --|                 --|
-- `pwd`| print directory path
-- `cd dir` | open currently directory
-- `cd ..`| open level up directory
-- `clear`| clearing screen terminal
+|- `pwd`| print directory path
+|- `cd dir` | open currently directory
+|- `cd ..`| open level up directory
+|- `clear`| clearing screen terminal
 
 
 ## Check memory
 |Command | Result
-|--|--
-- `top`| list of processes used memory
-- `ps -aux`| alt list processes
-- `ps -u`| user processes
+|--|--|
+|- `top`| list of processes used memory|
+|- `ps -aux`| alt list processes|
+|- `ps -u`| user processes|
 
 
 
