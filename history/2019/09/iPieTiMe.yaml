@@ -1,0 +1,72 @@
+---
+
+# 2019-09-04 Idea for App "iPieTiMe"
+# Author: Vladimir Pavlychev
+
+Idea: "To have mobile App for categoryzing my jobs for prioritets using myself-agile-canban model"
+Author: "Vladimir Pavlychev"
+
+
+Process:
+  - Prototyping:
+    - Mobile-Card-Paper
+    - "Pensil or "
+
+Planning:
+  - Design
+  - Logic
+  - Instruments:
+    - Choose one:
+        - Svelte.js
+          - NativeScript
+        - Dart
+          - Flutter
+        - Vue.js
+          - Cordova
+
+  - Code:
+    - Gitlab-CI:
+      - GitHub : "Mirroring from Gitlab"
+  - Hosting
+  - PR:
+    - Chanels:
+      - SocialNetworks:
+        - Twitter
+        - Fb
+        - Vk
+        - Pinterest
+        - Instagram
+      - Website
+  - SMM
+
+App:
+
+ Features:
+   - HoursModel: 72
+   - "Coloring Masks"
+   - Intervals:
+     - minutes: 15
+
+ Methods:
+    - "Use 7 +/- 2"
+    - RYG:
+      - Red: "Stop job"
+      - Yellow: "Passive Attention"
+      - Green: "Go in Active"
+    - "ABC priority"
+
+ TypesOfTasks:
+  - Rest
+  - Event
+  - Flag
+  - Vampire
+  - Learning
+  - Days: "Interval periods"
+  - Engineering:
+    - Alternative: "Prototyping"
+    - Name
+    - Logo
+    - Design
+    - App
+    - PR
+...
