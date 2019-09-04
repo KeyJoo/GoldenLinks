@@ -1,0 +1,16 @@
+---
+# 2019-09-04 1823
+# Use "-minus for every section!"
+
+- Date: 2019-09-04
+
+- NotaBene:
+  - description: "Use -minus for every section!"
+
+- URLs:
+  - http://www.allitebooks.org/mastering-postcss-for-web-design/
+  - https://golang.org/pkg/log/
+  - https://golangcode.com/sleeping-with-go/
+  gist: https://gist.github.com/KeyJoo/1f47ed5cc9c7b629c0c1182d34847974 git add -p is your friend
+
+...
