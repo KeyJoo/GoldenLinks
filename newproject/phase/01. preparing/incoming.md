@@ -8,7 +8,7 @@
 + [03_development](#development)
 + [04_final](#final)
 
-<!-- See also: https://github.com/OsArts/stack/issues/124  -->
+`See also: https://github.com/OsArts/stack/issues/124`
 
 
 <a name="incoming"></a>
