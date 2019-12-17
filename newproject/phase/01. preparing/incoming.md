@@ -8,6 +8,8 @@
 + [03_development](#development)
 + [04_final](#final)
 
+`See also: https://github.com/OsArts/stack/issues/124` https://github.com/OsArts/stack/issues/124
+
 
 <a name="incoming"></a>
 ## «01_incoming»
